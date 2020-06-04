@@ -1,0 +1,7 @@
+[
+  {
+    "name": "org.apache.ignite.multi_node.Greeting",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  }
+]
